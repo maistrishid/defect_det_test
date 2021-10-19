@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>235_1_scratches_129</filename>
+  <path>./data/train_aug/235_1_scratches_129.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>200</width>
+    <height>200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>scratches</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin>1</ymin>
+      <xmax>113</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>inclusion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>3</ymin>
+      <xmax>75</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+</annotation>

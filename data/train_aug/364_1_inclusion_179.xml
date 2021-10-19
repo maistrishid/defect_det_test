@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>364_1_inclusion_179</filename>
+  <path>./data/train_aug/364_1_inclusion_179.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>200</width>
+    <height>200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>inclusion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>45</xmin>
+      <ymin>147</ymin>
+      <xmax>65</xmax>
+      <ymax>190</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>inclusion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>136</xmin>
+      <ymin>3</ymin>
+      <xmax>180</xmax>
+      <ymax>71</ymax>
+    </bndbox>
+  </object>
+</annotation>

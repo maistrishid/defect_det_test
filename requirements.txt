@@ -1,0 +1,8 @@
+jupyter==1.0.0
+clodsa==1.2.47
+opencv-python==4.5.1.48
+tensorflow==2.4.1
+keras==2.4.3
+pandas==1.2.3
+imageio==2.9.0
+matplotlib==3.4.1

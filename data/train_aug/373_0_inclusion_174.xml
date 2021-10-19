@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>373_0_inclusion_174</filename>
+  <path>./data/train_aug/373_0_inclusion_174.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>200</width>
+    <height>200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>inclusion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>64</xmin>
+      <ymin>1</ymin>
+      <xmax>85</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>inclusion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>66</xmin>
+      <ymin>70</ymin>
+      <xmax>90</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+</annotation>

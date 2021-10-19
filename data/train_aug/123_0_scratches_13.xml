@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>123_0_scratches_13</filename>
+  <path>./data/train_aug/123_0_scratches_13.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>200</width>
+    <height>200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>scratches</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>57</ymin>
+      <xmax>111</xmax>
+      <ymax>87</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>scratches</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>173</xmin>
+      <ymin>110</ymin>
+      <xmax>198</xmax>
+      <ymax>198</ymax>
+    </bndbox>
+  </object>
+</annotation>

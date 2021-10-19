@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>52_3_scratches_204</filename>
+  <path>./data/train_aug/52_3_scratches_204.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>200</width>
+    <height>200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>scratches</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>3</ymin>
+      <xmax>139</xmax>
+      <ymax>199</ymax>
+    </bndbox>
+  </object>
+</annotation>
